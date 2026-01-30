@@ -1,0 +1,15 @@
+Flask
+flask-cors
+google-generativeai
+python-dotenv
+openai-whisper
+boto3
+openai
+pymongo
+requests
+redis
+flask-session
+faster_whisper
+langdetect
+yt-dlp
+cachelib
