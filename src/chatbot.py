@@ -1057,3 +1057,5 @@ class Assistant:
 
 # --- Singleton Instance ---
 assistant = Assistant()
+
+#dashboardfeature
